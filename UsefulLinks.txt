@@ -1,6 +1,3 @@
 SESF-Fuse: https://github.com/Keep-Passion/SESF-Fuse
 Background-remove-tool: https://github.com/OPHoperHPO/image-background-remove-tool
 FastSAM: https://github.com/CASIA-IVA-Lab/FastSAM
-SHAP library: https://github.com/shap/shap
-XGBoost: https://xgboost.readthedocs.io/en/stable/
-ViT: https://huggingface.co/docs/transformers/model_doc/vit
